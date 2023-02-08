@@ -1,0 +1,27 @@
+h1{
+    text-align:center ;
+    font-style: italic;
+  }
+  .enregistrement{
+    border: solid 2px black;
+    width: 45%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 2rem;
+    background-color: #E8E7DF;
+  }
+  .mb-3{
+    width: 75%;
+    margin: 0 auto;
+    margin-right: 6px;
+  }
+  img {
+    width: 15%;
+    height: 15%;
+  }
+  .mb-1{
+    display : flex ;
+  }
+  .mb-2{
+    display : flex ;
+  }
