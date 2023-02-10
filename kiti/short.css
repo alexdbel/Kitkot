@@ -1,6 +1,7 @@
 .post{
     width: 350px;
     margin-right: 50px;
+    margin: 0 auto;
 }
 .post-container{
     display: flex;

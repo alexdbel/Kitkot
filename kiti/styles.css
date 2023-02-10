@@ -7,9 +7,11 @@
 }
 header{
     display: flex;
+    
 }
 .logo{
     width: 25%;
+    margin-top: 15px;
 }
 .user-image{
     width: 15%;
@@ -23,9 +25,12 @@ header{
 .left-user-info{
     justify-content: space-between;
     width: 25%;
+    background-color: #F8F9FA;
 }
 .right-option{
     width: 75%;
+    background-color: #E8E7DF;
+    height:100vh;
 }
 .head{
     display: flex;
