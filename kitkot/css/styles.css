@@ -64,3 +64,13 @@ header{
     color: #183153;
     font-size: small;
 }
+
+/* css for incon in connectee.html*/
+
+.action-postb{
+    display: flex;
+    margin: 2rem;
+}
+.action-postb option{
+    margin-right: 25px;
+}
