@@ -7,7 +7,10 @@
 }
 header{
     display: flex;
+ 
     
+    height: 300vh;
+  
 }
 .logo{
     width: 25%;
@@ -28,9 +31,9 @@ header{
     background-color: #F8F9FA;
 }
 .right-option{
-    width: 75%;
+    width: 100%;
     background-color: #E8E7DF;
-    height:100vh;
+    overflow:auto;
 }
 .head{
     display: flex;
@@ -53,12 +56,12 @@ header{
 .action-icon{
     font-size: 25px;
     margin-right: 7px;
-    color: #455b62;
+    color: #183153;
     
 }
 .action-icon p{
-    margin-left: px;
-    color: #455b62;
+    margin-left:px;
+    color: #183153;
     font-size: small;
 }
 

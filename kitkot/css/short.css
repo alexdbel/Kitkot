@@ -1,9 +1,9 @@
 .post{
-    width: 350px;
-    margin-right: 50px;
-    margin: 0 auto;
+    width:370px;
+    margin-right:200x;
 }
 .post-container{
     display: flex;
     margin-bottom: 30px;
+    margin-left: 30px;
 }
